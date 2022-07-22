@@ -4,6 +4,8 @@
 
 - ☎️ I can be reached at carmacksamuel@gmail.com or via https://www.linkedin.com/in/samuel-carmack/
 
+- (https://www.linkedin.com/in/samuel-carmack/)](./installation)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcarmack&layout=compact)](https://github.com/yushi1007)
 
 <!---
